@@ -2,10 +2,6 @@
   box-sizing: border-box;
 }
 
-:root {
-  --line-border-fill: #3498db;
-  --line-border-empty: #e0e0e0;
-}
 
 body {
   background-image: linear-gradient(90deg, #7d5fff, #7158e2);
